@@ -16,6 +16,7 @@ from utils.plots import plot_one_box
 from utils.torch_utils import select_device, load_classifier, time_synchronized, TracedModel
 
 #For SORT tracking
+#for sorting
 import skimage
 from sort import *
 
